@@ -10,7 +10,3 @@ followers = 100
 print("Username:",username)
 print("Bio:",bio)
 print("Followers:", followers)
-
-
-#2a. The use of the variables  is to assign the value to the variable for it to be call
-#2b. yes ,the output would changed to the new value.
