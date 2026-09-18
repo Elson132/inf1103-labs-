@@ -7,28 +7,6 @@ Delivery_amt=0
 
 
 
-'''def get_valid_input():
-    while True:
-        
-        Stock = input("Enter Inventory Stock: ")
-        if Stock < 0:
-            print("No negative number")
-            Rejected_count += 1
-            continue
-        elif Stock.is_integer() == False:
-            print("It is not an integer, Please Re-Enter!")
-            Rejected_count += 1
-            continue
-        else:
-            Stock = int(Stock)
-            Inventory += Stock
-            if Inventory > 500:
-                print("Alert: There is more than 500 in the inventory ")
-                break
-            else:
-                Inventory1 = Inventory
-                return Inventory1
-'''                
         
 def get_valid_input1():
     Inventory = 0  # Initialize Inventory to 0
@@ -62,10 +40,7 @@ def get_valid_input1():
 
 
     return "quit"  # Exit the loop if the user enters "quit"
-'''elif Delivery_amt.is_integer() == False:
-                print("It is not an integer, Please Re-Enter!")
-                Rejected_count += 1
-                continue'''                
+           
 
 
 def process_delivery(current_total,new_value):
@@ -112,25 +87,8 @@ while True:
     print("Number of Deliveries: " + str(no_of_deliveries))
 
 
-
-
-
-
-
-
-
-
-'''
-while True:
-    stock,delivery_amt=get_valid_input1()
-   # get_valid_input1()
-    if get_valid_input1() == "quit":
-        break
-    Inventory1 = process_delivery(Inventory, stock)
-    taxs=calculate_tax(delivery_amt)
-    generate_report(Inventory1,Rejected_count)
-  #  print(no_of_deliveries)
-'''
+#Self relfection question 4:
+#The answer is because the accessibility if it returns a value it can be use in the math calculation afterwards .So it can be more accessible rather than printing and returns none ,it is more redundant and not good coding.
 
 
 
@@ -144,47 +102,3 @@ while True:
 
 
 
-
-
-
-
-
-
-    
-''' Delivery_amt += taxs
-    no_of_deliveries += 1'''
-'''
-while Type != "quit":
-    Type=input("Continue/Quit: ")
-    if Type.lower()=="quit":
-        break
-    else:
-        try:
-          Stock= int(input("Enter Inventory Stock: "))
-          Inventory= Inventory +Stock
-        except ValueError:
-           # Stockdigit=Stock.is_integer
-       # if Stockdigit == False: 
-            print("It is not an integer,Please Re-Enter!")
-            Rejected_count+=1
-            continue
-        if Stock <0:
-            print("No negative number")
-            Rejected_count+=1
-            continue
-            Inventory=+Stock
-        else:
-         if Inventory > 500:
-            print("Alert: There is more than 500 in the inventory ")
-            break
-          
-    Finalised_inventory=Inventory
-
-        
-print("Inventory" +str(Finalised_inventory))
-print("Rejected_count"+ str(Rejected_count))
-    
-
-
-
-'''
