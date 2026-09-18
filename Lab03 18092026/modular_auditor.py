@@ -99,7 +99,7 @@ while True:
 
     Stock, delivery_amt, Rejected_count = result
 
-    Inventory1= process_delivery(Inventory, Stock)
+    Inventory= process_delivery(Inventory, Stock)
 
     no_of_deliveries += 1
 
@@ -107,7 +107,7 @@ while True:
 
     taxs1=taxs1 + taxs
 
-    generate_report(Inventory1,Rejected_count, taxs1)
+    generate_report(Inventory,Rejected_count, taxs1)
 
     print("Number of Deliveries: " + str(no_of_deliveries))
 
