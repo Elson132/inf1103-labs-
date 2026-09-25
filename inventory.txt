@@ -1,0 +1,4 @@
+80
+ID,Product,Stock
+1001,POP,30
+1002,30,50
