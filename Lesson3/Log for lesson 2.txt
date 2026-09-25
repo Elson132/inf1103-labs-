@@ -1,0 +1,37 @@
+PS C:\Users\Skyle01\INF1103-Labs> git log
+commit 343ce628974b266b774845ec69a04e42c2270154 (HEAD -> master)
+Author: Elson <2605775@sit.singaporetech.edu.sg>
+Date:   Fri Sep 11 15:15:29 2026 +0800
+
+    Auditor lab for submit
+
+commit 0c81fbcf5c536bddf2b4dfce93abbbef1da5c6e5 (origin/master)
+Author: Elson <2605775@sit.singaporetech.edu.sg>
+Date:   Fri Sep 4 15:35:15 2026 +0800
+
+    Fifth Activity
+
+commit 02de3b34f9f550130bbed4dfb7a910c7b1f183f4
+Author: Elson <2605775@sit.singaporetech.edu.sg>
+Date:   Fri Sep 4 15:28:06 2026 +0800
+
+    Fourth activity
+
+commit 4a31ec99a9ac253b09a71739c17e3bd35ec4c70e
+Author: Elson <2605775@sit.singaporetech.edu.sg>
+Date:   Fri Sep 4 15:21:57 2026 +0800
+
+    Third post
+
+commit cf70cfec67a28c42c077b7bd656a6128e0ba2050
+Author: Elson <2605775@sit.singaporetech.edu.sg>
+Date:   Fri Sep 4 15:07:57 2026 +0800
+
+    Second post
+
+commit fabd303e2f948c3c18793dffbaf6f4ecd2ebda6b
+Author: Elson <2605775@sit.singaporetech.edu.sg>
+Date:   Fri Sep 4 14:59:04 2026 +0800
+
+    First Post
+(END)

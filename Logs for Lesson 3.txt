@@ -1,0 +1,55 @@
+PS C:\Users\Skyle01\INF1103-Labs\Lab03 18092026> git log
+commit 97a06a68abb2761a7f7ca925fd1798c40fd424ae (HEAD -> master, origin/master)
+Author: Elson <2605775@sit.singaporetech.edu.sg>
+Date:   Sat Sep 19 01:56:36 2026 +0800
+
+    Updated modular auditor script 1
+
+commit e5474e5c5f1aca1de06f9e086adef94a3424af07
+Author: Elson <2605775@sit.singaporetech.edu.sg>
+Date:   Sat Sep 19 01:43:41 2026 +0800
+
+    Updated modular auditor script
+
+commit 0e7b17616a42139a1f3be668ba00632116f2fec3
+Author: Elson <2605775@sit.singaporetech.edu.sg>
+Date:   Sat Sep 19 00:37:23 2026 +0800
+
+    modular_auditor
+
+commit 343ce628974b266b774845ec69a04e42c2270154
+Author: Elson <2605775@sit.singaporetech.edu.sg>
+Date:   Fri Sep 11 15:15:29 2026 +0800
+
+    Auditor lab for submit
+
+commit 0c81fbcf5c536bddf2b4dfce93abbbef1da5c6e5
+Author: Elson <2605775@sit.singaporetech.edu.sg>
+Date:   Fri Sep 4 15:35:15 2026 +0800
+
+    Fifth Activity
+
+commit 02de3b34f9f550130bbed4dfb7a910c7b1f183f4
+Author: Elson <2605775@sit.singaporetech.edu.sg>
+Date:   Fri Sep 4 15:28:06 2026 +0800
+
+    Fourth activity
+
+commit 4a31ec99a9ac253b09a71739c17e3bd35ec4c70e
+Author: Elson <2605775@sit.singaporetech.edu.sg>
+Date:   Fri Sep 4 15:21:57 2026 +0800
+
+    Third post
+
+commit cf70cfec67a28c42c077b7bd656a6128e0ba2050
+Author: Elson <2605775@sit.singaporetech.edu.sg>
+Date:   Fri Sep 4 15:07:57 2026 +0800
+
+    Second post
+
+commit fabd303e2f948c3c18793dffbaf6f4ecd2ebda6b
+Author: Elson <2605775@sit.singaporetech.edu.sg>
+Date:   Fri Sep 4 14:59:04 2026 +0800
+
+    First Post
+(END)
